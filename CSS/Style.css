@@ -1,0 +1,217 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: 'Dosis', sans-serif;
+}
+/* Layout */
+.container{
+  width: 100%;
+  margin: auto;
+  padding: 20px 0px;
+ 
+}
+/* Header Part */
+header{
+  background-color: #223047;
+  width: 100%;
+  height: 630px;
+  
+}
+.logo-part{
+  color: #00fff0;
+}
+.menu-part li{
+  display: inline-block; 
+}
+.menu-part li a{
+  
+  margin: 0px 5px;
+  padding: 5px;
+  color: #ffffff;
+}
+.menu-button a{
+  color: #00fff0;
+  padding: 5px 10px;
+ 
+}
+.menu-button a:hover{
+  color: black;
+  background-color: #00fff0;
+  border-radius: 5px;
+  border: 1px solid black;
+  transition: 0.8s ease;
+}
+.underline-1{
+  border: 1px solid #ffffff57;
+  margin-top: 35px;
+}
+.hero-writing-part {
+  padding: 120px 100px;
+  margin: 60px 0px;
+}
+.hero-writing-part h1{
+padding: 10px 10px;
+color: #ffffff;
+}
+.hero-writing-part p{
+  padding: 10px 10px;
+  color: #ffffff;
+}
+.hero-button{
+  margin: 40px 5px;
+}
+.btn-1{
+  padding: 5px 10px;
+  margin: 0px 5px;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 05px;
+}
+.btn-1:hover{
+  color: black;
+  background-color: #00fff0;
+  border-radius: 5px;
+  border: 1px solid black;
+  transition: 0.8s ease; 
+}
+.btn-2{
+  padding: 5px 10px;
+  margin: 0px 5px;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 05px;
+}
+.btn-2:hover{
+  color: black;
+  background-color: #00fff0;
+  border-radius: 5px;
+  border: 1px solid black;
+  transition: 0.8s ease; 
+}
+
+.hero-image{
+  width: 300px;
+  height: 700px;
+  margin-top: 50px;
+}
+
+/* About section */
+#about{
+  width: 100%;
+  float: left;
+ 
+}
+.about-writing-part h2{
+  text-align: center;
+  font-size: x-large;
+  font-weight: 500;
+  margin-top: 15%
+}
+.about-box-part{
+  margin: 50px 10px;
+  padding: 30px 50px;
+  text-align: center;
+}
+.about-box{
+  border: 1px solid rgba(0, 0, 0, 0.274);
+  box-shadow: 5px black;
+  border-radius: 5px;
+  margin: 20px 0px;
+  padding: 5px 0px;
+ 
+  
+}
+.about-box h2{
+  padding: 10px 10px;
+  font-weight: 400;
+  font-size: large;
+  text-align: center;
+}
+.about-box p{
+  padding: 10px 35px;
+  margin-top: 5px;
+  text-align: center;
+  font-size: small;
+  color: #acb6cb;
+}
+.about-box img{
+  padding: 30px;  
+}
+.underline{
+  border: 2px solid #00fff0;
+  width: 7%;
+  margin: 30px auto;
+}
+.row{
+  width: 100%;
+  float: left;
+}
+.col-1 {
+  width: 8.33%;
+  float: left;
+}
+.col-2 {
+  width: 16.66%;
+  float: left;
+}
+.col-3 {
+  width: 25%;
+  float: left;
+}
+.col-4 {
+  width: 33.33%;
+  float: left;
+}
+.col-5 {
+  width: 41.66%;
+  float: left;
+}
+.col-6 {
+  width: 50%;
+  float: left;
+}
+.col-7 {
+  width: 58.33%;
+  float: left;
+}
+.col-8 {
+  width: 66.66%;
+  float: left;
+}
+.col-9 {
+  width: 75%;
+  float: left;
+}
+.col-10 {
+  width: 83.33%;
+  float: left;
+}
+.col-11 {
+  width: 91.66%;
+  float: left;
+}
+.col-12 {
+  width: 100%;
+  float: left;
+}
+.underline{
+  
+}
+
+
+
+
+
+/* Service Section */
+
+/*team section*/
+#team{
+
+}
+
+
+/*Skills section*/
